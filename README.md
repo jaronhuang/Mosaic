@@ -3,13 +3,17 @@
 USC CSCI 201 Summer 2020 Final Project
 
 **Developed By:**
+
 Jaron Huang
+
 Peter Simpson
+
 Mary Owen
+
 Benjamin Cormier
+
 Rodrigo Pecchio
 
----
 
 ## To compile the application
 1.  Ensure you have Xcode and its appropriate iOS device simulator installed.
